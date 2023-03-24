@@ -1,4 +1,1 @@
-"# SER_23" 
-"# SER_23" 
-"# SER_23" 
-"# SER_23" 
+A Speech emotion recognition AI model that help creating better and safe cyber environnment.
